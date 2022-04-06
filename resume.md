@@ -31,6 +31,8 @@ https://scalar.usc.edu/works/digital-portfolio-anush-mughnetsyan/index
 
 ## *[Bellevue College Governance](https://www.bellevuecollege.edu/governance/)*
 
+>Bellevue College Governance (BCG) is made up of a College Assembly and eight councils that provide advisory recommendations to college leadership on key areas such as strategic direction, resource acquisition and allocation, and policy. All BC employees are eligible to serve on a governance council.
+
 **Administrative Assistant** (October 2016 - June 2018)
 
 - **Provided personal assistance to Governance Coordinator**
@@ -43,6 +45,7 @@ https://scalar.usc.edu/works/digital-portfolio-anush-mughnetsyan/index
 
 ## **Refugee Women's Alliens, ReWA** (Seattle, State)
 ![ReWA](https://www.rewa.org/wp-content/uploads/2022/01/ReWA-logo-transluscent.png)
+
 
 ## *[ReWA](https://www.rewa.org/)*
 >_In 1985, a group of successfully resettled refugee women realized the unique needs of refugee and immigrant women and mothers were being overlooked in the social service settings that existed at the time. They founded the South East Asian Women’s Alliance (SEAWA) to provide newly arrived women with services in their native languages that were not available from other agencies. From a small, informal alliance of concerned refugee women, ReWA has grown to become one of the largest non-profit refugee and immigrant service providers in the Puget Sound area.
@@ -59,7 +62,7 @@ ReWA has a broad base of funding, including federal and local governments, Unite
 
 ## **Easy Access of all the links**
 
-> [University of Washington Husky Union Building](http://www.univ1.edu)
+> [University of Washington Husky Union Building](https://hub.washington.edu/)
 
 > [Bellevue College Governance](https://www.bellevuecollege.edu/governance/)
 
