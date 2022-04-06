@@ -9,7 +9,7 @@ https://scalar.usc.edu/works/digital-portfolio-anush-mughnetsyan/index
 
 # Summary
 
->More than ten years of experience in customer service, strong communication skills, and knowledge of English, Armenian, and Russian languages allow me to establish an imminent connection to the customers and stakeholders by creating friendly and interpersonal relationships with them. 
+>_More than ten years of experience in customer service, strong communication skills, and knowledge of English, Armenian, and Russian languages allow me to establish an imminent connection to the customers and stakeholders by creating friendly and interpersonal relationships with them._
 
 # Work Experience
 
@@ -31,7 +31,7 @@ https://scalar.usc.edu/works/digital-portfolio-anush-mughnetsyan/index
 
 ## *[Bellevue College Governance](https://www.bellevuecollege.edu/governance/)*
 
->Bellevue College Governance (BCG) is made up of a College Assembly and eight councils that provide advisory recommendations to college leadership on key areas such as strategic direction, resource acquisition and allocation, and policy. All BC employees are eligible to serve on a governance council.
+>_Bellevue College Governance (BCG) is made up of a College Assembly and eight councils that provide advisory recommendations to college leadership on key areas such as strategic direction, resource acquisition and allocation, and policy. All BC employees are eligible to serve on a governance council._
 
 **Administrative Assistant** (October 2016 - June 2018)
 
