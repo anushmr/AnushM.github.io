@@ -14,7 +14,7 @@ https://scalar.usc.edu/works/digital-portfolio-anush-mughnetsyan/index
 # Work Experience
 
 ## **UW Husky Union Building** (Seattle, WA)
-![HUB](/Lab1/images/hub_logo.png)
+![HUB](/Lab1/images/logoHub.png)
 
 ## *[UW Husky Union Building](https://hub.washington.edu)*
 
