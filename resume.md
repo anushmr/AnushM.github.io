@@ -1,10 +1,10 @@
 # Anush Mughnetsyan
 
-anushmr@uw.edu
+[UW email](anushmr@uw.edu)
 
-http://www.linkedin.com/in/anushmr
+[LinkedIn](http://www.linkedin.com/in/anushmr)
 
-https://scalar.usc.edu/works/digital-portfolio-anush-mughnetsyan/index
+[Scalar Project](https://scalar.usc.edu/works/digital-portfolio-anush-mughnetsyan/index)
 
 
 # Summary
