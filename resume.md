@@ -1,6 +1,6 @@
 # Anush Mughnetsyan
 
-[UW email](anushmr@uw.edu)
+anushmr@uw.edu
 
 [LinkedIn](http://www.linkedin.com/in/anushmr)
 
